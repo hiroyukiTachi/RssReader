@@ -1,0 +1,18 @@
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\bin\Debug\TestRssReader.exe.config
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\bin\Debug\TestRssReader.exe
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\bin\Debug\TestRssReader.pdb
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\obj\Debug\TestRssReader.csprojResolveAssemblyReference.cache
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\obj\Debug\TestRssReader.exe
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\obj\Debug\TestRssReader.pdb
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\bin\Debug\RssReader.dll
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\bin\Debug\Newtonsoft.Json.dll
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\bin\Debug\RssReader.pdb
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\TestRssReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\bin\Debug\TestRssReader.exe.config
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\obj\Debug\TestRssReader.exe
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\obj\Debug\TestRssReader.pdb
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\bin\Debug\TestRssReader.exe
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\bin\Debug\TestRssReader.pdb
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\bin\Debug\RssReader.dll
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\bin\Debug\RssReader.pdb
+C:\Users\hiroyuki4520\Desktop\RssReader\TestRssReader\obj\Debug\TestRssReader.csprojResolveAssemblyReference.cache

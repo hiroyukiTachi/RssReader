@@ -1,0 +1,13 @@
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\RssReader\bin\Debug\RssReader.dll
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\RssReader\bin\Debug\RssReader.pdb
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\RssReader\bin\Debug\Newtonsoft.Json.dll
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\RssReader\bin\Debug\Newtonsoft.Json.xml
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\RssReader\obj\Debug\RssReader.dll
+c:\users\hiroyuki4520\documents\visual studio 2015\Projects\RssReader\RssReader\obj\Debug\RssReader.pdb
+C:\Users\hiroyuki4520\Desktop\RssReader\RssReader\bin\Debug\RssReader.dll
+C:\Users\hiroyuki4520\Desktop\RssReader\RssReader\bin\Debug\RssReader.pdb
+C:\Users\hiroyuki4520\Desktop\RssReader\RssReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hiroyuki4520\Desktop\RssReader\RssReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiroyuki4520\Desktop\RssReader\RssReader\obj\Debug\RssReader.dll
+C:\Users\hiroyuki4520\Desktop\RssReader\RssReader\obj\Debug\RssReader.pdb
+C:\Users\hiroyuki4520\Desktop\RssReader\RssReader\obj\Debug\RssReader.csprojResolveAssemblyReference.cache
